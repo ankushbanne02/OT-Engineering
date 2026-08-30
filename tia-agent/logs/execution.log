@@ -1,0 +1,211 @@
+[2026-07-08 21:10:48] Workflow Started
+[2026-07-08 21:10:49] Executing create_project
+[2026-07-08 21:10:49] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:10:49] {'projectName': 'WaterPlant', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:10:49] Workflow Completed
+[2026-07-08 21:13:43] Workflow Started
+[2026-07-08 21:13:43] Executing create_project
+[2026-07-08 21:13:43] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:13:43] {'projectName': 'WaterPlant', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:13:43] Workflow Completed
+[2026-07-08 21:13:56] Workflow Started
+[2026-07-08 21:13:56] Executing connect
+[2026-07-08 21:13:56] POST : http://localhost:5000/api/connection/connect
+[2026-07-08 21:13:56] Executing create_project
+[2026-07-08 21:13:56] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:13:56] {'projectName': 'WaterPlant', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:13:56] Executing save_project
+[2026-07-08 21:13:56] POST : http://localhost:5000/api/project/save
+[2026-07-08 21:13:56] Executing disconnect
+[2026-07-08 21:13:56] POST : http://localhost:5000/api/connection/disconnect
+[2026-07-08 21:13:56] Workflow Completed
+[2026-07-08 21:14:20] Workflow Started
+[2026-07-08 21:14:20] Executing connect
+[2026-07-08 21:14:20] POST : http://localhost:5000/api/connection/connect
+[2026-07-08 21:14:20] Executing create_project
+[2026-07-08 21:14:20] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:14:20] {'projectName': 'Factory', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:14:20] Executing save_project
+[2026-07-08 21:14:20] POST : http://localhost:5000/api/project/save
+[2026-07-08 21:14:20] Executing create_plc
+[2026-07-08 21:14:20] POST : http://localhost:5000/api/plc/create
+[2026-07-08 21:14:20] {'plcType': 'S7-1200'}
+[2026-07-08 21:14:20] Executing create_hmi
+[2026-07-08 21:14:20] POST : http://localhost:5000/api/hmi/create
+[2026-07-08 21:14:20] Executing save_project
+[2026-07-08 21:14:20] POST : http://localhost:5000/api/project/save
+[2026-07-08 21:14:20] Executing disconnect
+[2026-07-08 21:14:20] POST : http://localhost:5000/api/connection/disconnect
+[2026-07-08 21:14:20] Workflow Completed
+[2026-07-08 21:20:01] Workflow Started
+[2026-07-08 21:20:01] Executing connect
+[2026-07-08 21:20:01] POST : http://localhost:5000/api/connection/connect
+[2026-07-08 21:20:01] Executing create_project
+[2026-07-08 21:20:01] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:20:01] {'projectName': 'Fanuc', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:20:01] Executing create_plc
+[2026-07-08 21:20:01] POST : http://localhost:5000/api/plc/create
+[2026-07-08 21:20:01] {'plcType': 'S7-1500'}
+[2026-07-08 21:20:01] Executing create_hmi
+[2026-07-08 21:20:01] POST : http://localhost:5000/api/hmi/create
+[2026-07-08 21:20:01] Executing save_project
+[2026-07-08 21:20:01] POST : http://localhost:5000/api/project/save
+[2026-07-08 21:20:01] Executing disconnect
+[2026-07-08 21:20:01] POST : http://localhost:5000/api/connection/disconnect
+[2026-07-08 21:20:01] Workflow Completed
+[2026-07-08 21:33:57] Workflow Started
+[2026-07-08 21:33:57] Executing connect
+[2026-07-08 21:33:57] POST : http://localhost:5000/api/connection/connect
+[2026-07-08 21:33:57] Executing create_project
+[2026-07-08 21:33:57] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:33:57] Payload : {'projectName': 'Fanuc', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:33:57] Executing create_plc
+[2026-07-08 21:37:39] Workflow Started
+[2026-07-08 21:37:39] Executing connect
+[2026-07-08 21:37:39] POST : http://localhost:5000/api/connection/connect
+[2026-07-08 21:37:39] Executing create_project
+[2026-07-08 21:37:39] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:37:39] Payload : {'projectName': 'fanuc', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:37:39] Executing create_plc
+[2026-07-08 21:37:39] POST : http://localhost:5000/api/plc/create
+[2026-07-08 21:37:39] Payload : {'plcType': 'S7-1500'}
+[2026-07-08 21:37:39] Executing create_hmi
+[2026-07-08 21:37:39] POST : http://localhost:5000/api/hmi/create
+[2026-07-08 21:37:39] Executing save_project
+[2026-07-08 21:37:39] POST : http://localhost:5000/api/project/save
+[2026-07-08 21:37:39] Executing disconnect
+[2026-07-08 21:37:39] POST : http://localhost:5000/api/connection/disconnect
+[2026-07-08 21:37:39] Workflow Completed
+[2026-07-08 21:57:08] Workflow Started
+[2026-07-08 21:57:08] Executing connect
+[2026-07-08 21:57:08] POST : http://localhost:5000/api/connection/connect
+[2026-07-08 21:57:08] Executing create_project
+[2026-07-08 21:57:08] POST : http://localhost:5000/api/project/create
+[2026-07-08 21:57:08] Payload : {'projectName': 'Fanuc', 'directory': 'D:\\TIAProjects'}
+[2026-07-08 21:57:08] Executing create_plc
+[2026-07-08 21:57:08] POST : http://localhost:5000/api/plc/create
+[2026-07-08 21:57:08] Payload : {'plcType': 'S7-1500'}
+[2026-07-08 21:57:08] Executing create_hmi
+[2026-07-08 21:57:08] POST : http://localhost:5000/api/hmi/create
+[2026-07-08 21:57:08] Executing save_project
+[2026-07-08 21:57:08] POST : http://localhost:5000/api/project/save
+[2026-07-08 21:57:08] Executing disconnect
+[2026-07-08 21:57:08] POST : http://localhost:5000/api/connection/disconnect
+[2026-07-08 21:57:08] Workflow Completed
+[2026-07-09 00:34:15] Workflow Started
+[2026-07-09 00:34:15] Executing connect
+[2026-07-09 00:34:15] POST : http://localhost:5215/api/connection/connect
+[2026-07-09 00:37:14] Workflow Started
+[2026-07-09 00:37:14] Executing connect
+[2026-07-09 00:37:14] POST : http://localhost:5215/api/connection/connect
+[2026-07-09 00:37:14] Executing create_project
+[2026-07-09 00:37:14] POST : http://localhost:5215/api/project/create
+[2026-07-09 00:37:14] Payload : {'projectName': 'WaterPlant', 'directory': 'D:\\TIAProjects'}
+[2026-07-09 00:37:14] Executing create_plc
+[2026-07-09 00:40:26] Workflow Started
+[2026-07-09 00:40:26] Executing connect
+[2026-07-09 00:40:26] POST : http://localhost:5215/api/connection/connect
+[2026-07-09 00:40:26] Executing create_project
+[2026-07-09 00:40:26] POST : http://localhost:5215/api/project/create
+[2026-07-09 00:40:26] Payload : {'projectName': 'WaterPlant', 'directory': 'D:\\TIAProjects'}
+[2026-07-09 00:40:26] Executing create_plc
+[2026-07-09 00:40:26] POST : http://localhost:5215/api/plc/create
+[2026-07-09 00:40:26] Payload : {'plcType': 'S7-1500', 'deviceName': 'PLC_1'}
+[2026-07-09 00:40:26] Executing create_hmi
+[2026-07-09 00:40:26] POST : http://localhost:5215/api/hmi/create
+[2026-07-09 00:40:26] Payload : {'deviceName': 'HMI_1', 'hmiType': 'Basic'}
+[2026-07-09 00:40:26] Executing save_project
+[2026-07-09 00:40:26] POST : http://localhost:5215/api/project/save
+[2026-07-09 00:40:26] Executing disconnect
+[2026-07-09 00:40:26] POST : http://localhost:5215/api/connection/disconnect
+[2026-07-09 00:40:26] Workflow Completed
+[2026-07-09 01:18:09] Workflow Started
+[2026-07-09 01:18:09] Executing connect
+[2026-07-09 01:18:09] POST : http://localhost:5215/api/connection/connect
+[2026-07-09 01:18:09] Workflow Completed
+[2026-07-09 01:18:09] Workflow Started
+[2026-07-09 01:18:09] Executing create_project
+[2026-07-09 01:18:09] POST : http://localhost:5215/api/project/create
+[2026-07-09 01:18:09] Payload : {'projectName': 'PNQ', 'directory': 'D:\\TIAProjects'}
+[2026-07-09 01:18:09] Workflow Completed
+[2026-07-09 01:18:09] Workflow Started
+[2026-07-09 01:18:09] Executing create_plc
+[2026-07-09 01:18:09] POST : http://localhost:5215/api/plc/create
+[2026-07-09 01:18:09] Payload : {'plcType': '1003', 'deviceName': 'PLC_1'}
+[2026-07-09 01:18:09] Workflow Completed
+[2026-07-09 01:18:09] Workflow Started
+[2026-07-09 01:18:09] Executing create_hmi
+[2026-07-09 01:18:09] POST : http://localhost:5215/api/hmi/create
+[2026-07-09 01:18:09] Payload : {'deviceName': 'HMI_1', 'hmiType': 'Basic'}
+[2026-07-09 01:18:09] Workflow Completed
+[2026-07-09 01:18:09] Workflow Started
+[2026-07-09 01:18:09] Executing save_project
+[2026-07-09 01:18:09] POST : http://localhost:5215/api/project/save
+[2026-07-09 01:18:09] Workflow Completed
+[2026-07-09 01:18:09] Workflow Started
+[2026-07-09 01:18:09] Executing disconnect
+[2026-07-09 01:18:09] POST : http://localhost:5215/api/connection/disconnect
+[2026-07-09 01:18:09] Workflow Completed
+[2026-07-09 13:11:17] Workflow Started
+[2026-07-09 13:11:17] Executing connect
+[2026-07-09 13:11:17] POST : http://localhost:5215/api/connection/connect
+[2026-07-09 13:15:03] Workflow Started
+[2026-07-09 13:15:03] Executing connect
+[2026-07-09 13:15:03] POST : http://localhost:5215/api/connection/connect
+[2026-07-09 13:15:03] Executing create_project
+[2026-07-09 13:15:04] POST : http://localhost:5215/api/project/create
+[2026-07-09 13:15:04] Payload : {'projectName': 'test_project', 'directory': 'D:\\TIAProjects'}
+[2026-07-09 13:15:04] Executing disconnect
+[2026-07-09 13:15:04] POST : http://localhost:5215/api/connection/disconnect
+[2026-07-09 13:15:04] Workflow Completed
+[2026-07-10 17:16:52] Workflow Started
+[2026-07-10 17:16:52] Executing connect
+[2026-07-10 17:16:52] POST : http://localhost:5215/api/connection/connect
+[2026-07-10 17:18:34] Workflow Started
+[2026-07-10 17:18:34] Executing connect
+[2026-07-10 17:18:34] POST : http://localhost:5215/api/connection/connect
+[2026-07-10 17:18:34] Executing create_project
+[2026-07-10 17:18:34] POST : http://localhost:5215/api/project/create
+[2026-07-10 17:18:34] Payload : {'projectName': 'Test_Project', 'directory': 'D:\\TIAProjects'}
+[2026-07-10 17:18:34] Executing disconnect
+[2026-07-10 17:18:34] POST : http://localhost:5215/api/connection/disconnect
+[2026-07-10 17:18:34] Workflow Completed
+[2026-07-10 17:43:42] Workflow Started
+[2026-07-10 17:43:42] Executing connect
+[2026-07-10 17:43:42] POST : http://localhost:5215/api/connection/connect
+[2026-07-10 17:43:43] Executing create_project
+[2026-07-10 17:43:43] POST : http://localhost:5215/api/project/create
+[2026-07-10 17:43:43] Payload : {'projectName': 'Test_TIA', 'directory': 'D:\\TIAProjects'}
+[2026-07-10 17:49:11] Workflow Started
+[2026-07-10 17:49:11] Executing connect
+[2026-07-10 17:49:11] POST : http://localhost:5215/api/connection/connect
+[2026-07-10 17:50:17] Workflow Started
+[2026-07-10 17:50:17] Executing connect
+[2026-07-10 17:50:17] POST : http://localhost:5215/api/connection/connect
+[2026-07-10 17:50:17] Executing create_project
+[2026-07-10 17:50:17] POST : http://localhost:5215/api/project/create
+[2026-07-10 17:50:17] Payload : {'projectName': 'Test_TIA', 'directory': 'C:\\Data\\TIA_Projects'}
+[2026-07-16 17:39:18] Workflow Started
+[2026-07-16 17:39:18] Executing connect
+[2026-07-16 17:39:18] POST : http://localhost:5215/api/connection/connect
+[2026-07-16 17:43:55] Workflow Started
+[2026-07-16 17:43:55] Executing connect
+[2026-07-16 17:43:55] POST : http://localhost:5215/api/connection/connect
+[2026-07-16 17:44:46] Workflow Started
+[2026-07-16 17:44:46] Executing connect
+[2026-07-16 17:44:46] POST : http://localhost:5215/api/connection/connect
+[2026-07-16 17:44:46] Executing create_project
+[2026-07-16 17:44:46] POST : http://localhost:5215/api/project/create
+[2026-07-16 17:44:46] Payload : {'projectName': 'TEST_TIA_2', 'directory': 'C:\\Data\\TIA_Projects'}
+[2026-07-16 17:47:29] Workflow Started
+[2026-07-16 17:47:29] Executing connect
+[2026-07-16 17:47:29] POST : http://localhost:5215/api/connection/connect
+[2026-07-16 17:47:29] Executing create_project
+[2026-07-16 17:47:29] POST : http://localhost:5215/api/project/create
+[2026-07-16 17:47:29] Payload : {'projectName': 'tTEST_TIA_2', 'directory': 'C:\\Data\\TIA_Projects'}
+[2026-07-16 17:51:14] Workflow Started
+[2026-07-16 17:51:14] Executing connect
+[2026-07-16 17:51:14] POST : http://localhost:5215/api/connection/connect
+[2026-07-16 17:51:14] Executing create_project
+[2026-07-16 17:51:14] POST : http://localhost:5215/api/project/create
+[2026-07-16 17:51:14] Payload : {'projectName': 'TEST_TIA_2', 'directory': 'C:\\Data\\TIA_Projects'}

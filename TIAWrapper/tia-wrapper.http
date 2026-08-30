@@ -1,0 +1,16 @@
+@tia_wrapper_HostAddress = http://localhost:5215
+
+GET {{tia_wrapper_HostAddress}}/api/connection/status
+Accept: application/json
+
+###
+
+POST {{tia_wrapper_HostAddress}}/api/connection/connect
+Accept: application/json
+
+###
+
+POST {{tia_wrapper_HostAddress}}/api/connection/disconnect
+Accept: application/json
+
+###
