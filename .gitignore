@@ -1,0 +1,149 @@
+# =========================
+# Python
+# =========================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# =========================
+# Virtual Environments
+# =========================
+
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# IDEs / Editors
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# =========================
+# Jupyter Notebook
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# Testing / Coverage
+# =========================
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.cache/
+coverage.xml
+*.cover
+*.py,cover
+
+# =========================
+# Type Checking
+# =========================
+
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+
+# =========================
+# OS Files
+# =========================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# =========================
+# Local Data / Temporary Files
+# =========================
+
+tmp/
+temp/
+*.tmp
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Secrets / Certificates
+# =========================
+
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# =========================
+# Application Generated Files
+# =========================
+
+uploads/
+outputs/
+artifacts/
+generated/
